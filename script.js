@@ -1,4 +1,5 @@
 function validateForm() {
+    // first of all reset error messages
     document.getElementById('emailError').textContent = '';
     document.getElementById('passwordError').textContent = '';
 

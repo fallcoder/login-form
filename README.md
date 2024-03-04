@@ -4,7 +4,7 @@ This project is a simple login form developed using HTML, CSS, and JavaScript. I
 
 ## Features:
 
-* Input of email address and password.<br>
+* Input of email address and ssword.<br>
 * Validation of fields to ensure that the entered data is correct.<br>
 * Display of error messages in case of empty fields or incorrect formats.<br>
 * Confirmation of successful login with an alert.
